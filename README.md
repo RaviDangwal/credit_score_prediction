@@ -106,7 +106,7 @@ python main.py
 
 The **Credit Score Prediction Model** is successfully **deployed on an AWS EC2 instance**, allowing users to interact with it via a web interface or API.  
 
-### 🔗 **Live Demo** (if applicable)  
+### 🔗 **Live Demo**  
 👉 **[Visit the Application](http://52.66.248.93:8000/)**  
 
 ### ⚙️ **Deployment Details**  
