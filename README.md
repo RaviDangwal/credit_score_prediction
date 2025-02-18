@@ -117,7 +117,7 @@ The **Credit Score Prediction Model** is successfully **deployed on an AWS EC2 i
 - **Backend:** Python (Flask)   
 
 ### 🚀 **How to Use the Deployed Model**  
-1. Open the **[Live Link](http://your-aws-public-ip-or-domain)**.  
+1. Open the **[Live Link](http://52.66.248.93:8000/)**.  
 2. Enter the required input values (financial attributes).  
 3. Click **Predict**, and the model will return a credit score classification.  
 ---
