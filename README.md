@@ -63,8 +63,8 @@ The **Credit Score Prediction** project aims to classify individuals' creditwort
 ## 💻 Installation  
 Clone this repository:  
 ```bash
-git clone https://github.com/yourusername/credit-score-prediction.git
-cd credit-score-prediction
+git clone https://github.com/RaviDangwal/credit_score_prediction
+cd credit_score_prediction
 ```
 Install dependencies:  
 ```bash
@@ -89,7 +89,7 @@ python main.py
 
 ## 📊 Dashboard  
 ![Dashboard Preview](https://public.tableau.com/app/profile/ravi.dangwal/viz/CreditScorePrediction/Dashboard1)  
-[Link to Tableau Dashboard](https://public.tableau.com/app/profile/ravi.dangwal/viz/CreditScorePrediction/Dashboard1) *(Add the link if hosted online)*  
+[Link to Tableau Dashboard](https://public.tableau.com/app/profile/ravi.dangwal/viz/CreditScorePrediction/Dashboard1)   
 
 ## 🔮 Future Improvements  
 - Enhancing feature selection for better accuracy  
@@ -130,9 +130,7 @@ The **Credit Score Prediction Model** is successfully **deployed on an AWS EC2 i
 
 ---
 
-### ⭐ If you found this project helpful, give it a star! ⭐  
-🔗 [GitHub Repository Link](#) *(Replace with actual link)*  
+### ⭐ If you found this project helpful, give it a star! ⭐   
 
 ---
 
-This structure makes your README detailed, professional, and easy to navigate. Let me know if you need modifications! 🚀
