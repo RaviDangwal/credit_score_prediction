@@ -20,10 +20,10 @@
 The **Credit Score Prediction** project aims to classify individuals' creditworthiness based on various financial and personal attributes. This model can be used by banks and financial institutions to assess risks before issuing loans.  
 
 ## 📊 Dataset  
-- The dataset used contains details about borrowers, including income, debt, past loan history, and other financial metrics.  
-- Data preprocessing steps: Handling missing values, encoding categorical features, feature scaling, etc.  
-- Dataset source: Kaggle
-The dataset contains the following attributes:
+#### The dataset used contains details about borrowers, including income, debt, past loan history, and other financial metrics.  
+#### Data preprocessing steps: Handling missing values, encoding categorical features, feature scaling, etc.  
+#### Dataset source: Kaggle
+#### The dataset contains the following attributes:
 
 - Age: The age of the customer
 - Occupation: The customer’s occupation
