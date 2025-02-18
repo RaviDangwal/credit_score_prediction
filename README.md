@@ -87,8 +87,7 @@ python main.py
 - **Accuracy achieved:** *81%*  
 - **Best performing model:** *XGBoost*  
 
-## 📊 Dashboard  
-![Dashboard Preview](https://public.tableau.com/app/profile/ravi.dangwal/viz/CreditScorePrediction/Dashboard1)  
+## 📊 Dashboard   
 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/ravi.dangwal/viz/CreditScorePrediction/Dashboard1)   
 
 ## 🔮 Future Improvements  
