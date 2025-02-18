@@ -9,10 +9,8 @@
 - [Installation](#installation)  
 - [Usage](#usage)  
 - [Results and Insights](#results-and-insights)  
-- [Dashboard](#dashboard)  
-- [Future Improvements](#future-improvements)  
-- [Contributors](#contributors)  
-- [License](#license)  
+- [Dashboard](#dashboard)   
+- [Contributors](#contributors)    
 
 ---
 
